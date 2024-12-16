@@ -1,1 +1,1 @@
-# Compan-i-a-minera-ML
+# OilyGiant ML model
