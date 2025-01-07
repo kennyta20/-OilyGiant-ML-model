@@ -1,1 +1,2 @@
 # OilyGiant ML model
+OilyGiant is a mining company looking for the best location for a new oil well. With data available from three regions, the parameters of each oil well in the region are known. OilyGiant wants to establish which of these three regions can generate the highest profit margin, so a machine learning model will be developed to establish the potential risks and benefits of each region in order to determine the most suitable region for the new well.
